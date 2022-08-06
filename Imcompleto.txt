@@ -1,0 +1,7 @@
+Trabalho Incompleto
+
+Algumas coisas precisam ser alteradas e completadas,
+Caso queira conferir as mudanças em tempo real.
+
+Acesse o link abaixo:
+https://trabalhodecadastro.netlify.app/

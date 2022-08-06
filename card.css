@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    background-image: linear-gradient(to left bottom, rgb(162, 162, 247), blue);
+}
+.carros{
+    position: relative;
+    left: 25%;
+    background-color: white;
+    border-radius: 50px;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+}
+video{
+    width: 70%;
+    height: auto;
+}
