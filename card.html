@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
     <script src="main.js"></script>
+    <script type="text/javascript" src="https://unpkg.com/webcam-easy/dist/webcam-easy.min.js"></script>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,16 +21,16 @@
           <p id="infoNome"></p>
           <p id="infoCpf"></p>
           <p id="infoData"></p>
-          <a href="#" class="btn btn-primary" id='grava' onclick="video()">Foto</a>
+          <a href="#" class="btn btn-primary" id='grava'>Foto</a>
           <hr>
         <video id="video"></video>
         <canvas id='canvas'></canvas>
+        
         <br>
-        <button id="upload" onclick="salvar()">Upload</button>
-        <a href="#" class="btn btn-primary" id='capture' onclick="capturar()">Tirar uma foto</a>
+        <a href="#" class="btn btn-primary" id='upload'> uma foto</a>
+        <a href="#" class="btn btn-primary" id='capture'>Tirar uma foto</a>
         </div>
       </div>
-
     <script src="card.js"></script>
 </body>
 </html>
